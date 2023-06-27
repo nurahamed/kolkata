@@ -1,0 +1,27 @@
+.contact{
+    height: 500px;
+   background-color: rgb(230, 228, 246);
+}
+.form{
+    max-width: 62%;
+    margin: 3px auto; 
+   
+}
+.form input{
+    margin: 8px auto;
+    padding: 2px;
+    width: 100%;
+    font-size: 16px;
+    border: 2px solid gray;
+    border-radius: 6px;
+    background: none;
+}
+.back{
+    background: none;
+    width: 100%;
+    border: 2px solid gray;
+}
+.btn-dark{
+    color: black;
+    border: 2px solid black;
+}

@@ -1,0 +1,36 @@
+.box-main{
+    height: 90%;
+    max-width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+}
+.firstSection{
+    height: 100vh;
+}
+.firstHalf{
+    margin-top: 70px;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.secondtHalf{
+    margin-top: 70px;
+    width: 30%;
+}
+.secondHalf img{
+    width: 70%;
+    padding: 0px;
+    border: 4px solid ;
+    border-radius: 150px;
+    display: block;
+    margin: auto;
+}
+.buttons{
+    margin-top: 20px;
+   
+}
